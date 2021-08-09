@@ -22,7 +22,7 @@ Where:
 o	‘year’ – String – The year of sales.
 o	‘vehiclesSold’ – Integer – The number of vehicles sold within that year.
 
-                **THE PURPOSE OF THE ASSIGNMENT WAS TO**
+                **THE PURPOSE OF THE ASSIGNMENT WAS TO EXTRACT FOLLOWING DATA**
                 
   •	How many of each model were sold throughout between 2011 -2020? 
         OUTPUT eg.
